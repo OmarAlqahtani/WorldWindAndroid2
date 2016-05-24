@@ -1,0 +1,14 @@
+
+.DS_Store
+
+.gradle
+
+.idea/libraries
+
+.idea/shelf
+
+.idea/workspace.xml
+
+build
+
+local.properties
